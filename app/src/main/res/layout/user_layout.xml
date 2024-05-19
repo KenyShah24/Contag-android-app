@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:id="@+id/user_lay"
+    android:visibility="gone">
+
+    <!--<de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/signup_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="50dp"
+        android:foregroundGravity="left|center_horizontal"
+        android:src="@mipmap/ic_profile_round"
+        app:civ_border_color="@color/colorGradientStart"
+        app:civ_border_width="2dp" />-->
+
+    <ImageView
+        android:id="@+id/pro_img"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="20dp"
+        android:src="@mipmap/ic_launcher_round"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/name_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="140dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="20dp"
+        android:text="John marshal"
+        android:textColor="#000"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:visibility="gone"/>
+
+    <!--<TextView
+        android:id="@+id/gen_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="140dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginRight="20dp"
+        android:text="female" />
+
+    <TextView
+        android:id="@+id/phno_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="140dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginRight="20dp"
+        android:text="9087655654" />
+
+    <TextView
+        android:id="@+id/dob_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="140dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginRight="20dp"
+        android:text="24/07/19" />
+
+    <TextView
+        android:id="@+id/email_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="140dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginRight="20dp"
+        android:text="John@marshal" />-->
+
+    <Button
+        android:id="@+id/follow"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_marginLeft="140dp"
+        android:layout_marginTop="60dp"
+        android:background="@drawable/backgradient"
+        android:text="FOLLOW"
+        android:textColor="#fff"
+        android:visibility="gone"/>
+
+</RelativeLayout>

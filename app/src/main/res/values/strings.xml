@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Contag</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_navigation">navigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_Search">Search</string>
+    <string name="title_Notification">Notification</string>
+    <string name="title_Memories">Memories</string>
+    <string name="title_Logout">Logout</string>
+
+
+    <!--Setting text-->
+    <string name="Private_Msg">Are You Sure Your Account Make Private?</string>
+    <string name="Public_Msg">Are You Sure Your Account Make Public?</string>
+    <string name="Private">Private Account</string>
+    <string name="title_Saved_login_info">Saved Login Information</string>
+    <string name="title_Account_privacy">Account Privacy</string>
+    <string name="title_Private">Private</string>
+    <string name="title_Public">Public</string>
+    <string name="title_Block_account">Block Account</string>
+    <string name="title_Contact_sync">Contact Syncing</string>
+    <string name="title_About">About</string>
+    <string name="title_Comments">Comments</string>
+    <string name="title_Help">Help</string>
+    <string name="title_Tagged_Posts">Tagged_Posts</string>
+    <string name="title_Saved">Saved</string>
+    <string name="title_Close_friends">Close Friends</string>
+    <string name="title_Post_likes">Post You have Liked</string>
+    <string name="title_Hide_comment">Hide Comments</string>
+    <string name="title_Block_comment">Block Comments</string>
+
+
+    <string name="Saved_Login_Info">Login Information</string>
+    <string name="Search_History">Search History</string>
+    <string name="Follow_following_notification">Notification</string>
+    <string name="Account_Privacy">Account Privacy</string>
+    <string name="Block_Account">Block Account</string>
+    <string name="Close_Friends">Close Friends</string>
+    <string name="Contact_Syncing">Contact Syncing</string>
+    <string name="Posts_liked">Liked Post</string>
+    <string name="saved">Saved</string>
+    <string name="Logout">Logout</string>
+    <string name="About">About</string>
+    <string name="comment">Comments</string>
+    <string name="Help">Help</string>
+    <string name="Tagged_Posts">Tagged Posts</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_my_home">MyHome</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+
+</resources>

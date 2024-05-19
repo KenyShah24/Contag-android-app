@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#A615BE</color>
+    <color name="colorPrimaryDark">#030303</color>
+    <color name="colorAccent">#0D25AB</color>
+    <color name="sidecolor">#5A83EA</color>
+
+    <color name="colorGradientStart">#6BB4EE</color>
+    <color name="colorGradientCenter">#3851DD</color>
+    <color name="colorGradientEnd">#A615BE</color>
+    <color name="White">#fff</color>
+    <color name="Black">#000</color>
+    <color name="Gray">#222</color>
+
+
+
+</resources>

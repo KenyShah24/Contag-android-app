@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/title_Search"
+            android:title="@string/title_Search"
+            android:icon="@drawable/ic_search" />
+
+        <item
+            android:id="@+id/title_Notification"
+            android:title="@string/title_Notification"
+            android:icon="@drawable/ic_noti"/>
+
+        <item
+            android:id="@+id/title_Memories"
+            android:title="@string/title_Memories"
+            android:icon="@drawable/ic_save"/>
+
+</menu>
